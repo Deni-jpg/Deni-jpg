@@ -23,3 +23,4 @@
 </div>
 
 ### Obrigado pela visita! 🚀
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Deni-jpg.Deni-jpg&left_text=Visitantes)
