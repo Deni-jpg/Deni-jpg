@@ -2,14 +2,14 @@
 
 ### Sobre mim 🙋‍♂️
 - 🔭 Sou um estudante de **Sistemas de Tecnologias e Informação**.
-- 🌱 Atualmente estudando **Python** & **JavaScript**.
+- 🌱 Atualmente estudando **Python** & **Flask**.
 - 📫 Email: danielcariocacoelho@gmail.com
 - ✈️ Sou **Brasileiro** e atualmente moro em **Portugal**!
 - ⚡ Fun fact: Amante da música e animais.
   
 ## Skill Set 👨‍💻
 <div style="display: flex; align-items: center;">
-  <img alt="Daniel-py" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img alt="Daniel-py" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>      
   <img alt="Daniel-js" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img alt="Daniel-html" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img alt="Daniel-css" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> 
