@@ -2,7 +2,7 @@
 
 ### Sobre mim 🙋‍♂️
 - 🔭 Sou um estudante de **Sistemas de Tecnologias e Informação**.
-- 🌱 Atualmente estudando **Python** & **Flask**.
+- 🌱 Atualmente estudando **Python** & **Javascript**.
 - 📫 Email: danielcariocacoelho@gmail.com
 - ✈️ Sou **Brasileiro** e atualmente moro em **Portugal**!
 - ⚡ Fun fact: Amante da música e animais.
